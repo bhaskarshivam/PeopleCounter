@@ -1,1 +1,1 @@
-# People_counter
+# PeopleCounter
